@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I am
+## Shiju Nambiar:handshake:
+<!--![visitor badge](https://visitor-badge.glitch.me/badge?page_id=skoodath.visitor-badge)-->
+I am a tech enthusiast and a self-taught frontend developer. I love UI Design and developing for the web mostly with [React](https://reactjs.org/). I have also dabbled with Angular, Node, MongoDB to build fullstack side projects. I am currently getting my hands dirty with DSA, Python and AWS. Quite an eventful time.
 
 <!--
 **skoodath/skoodath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
