@@ -28,8 +28,5 @@ Hi, I am Shaiju, a tech enthusiast and a self-taught web developer. I love UI De
   <img alt="LinkedIn" src="https://github.com/skoodath/skoodath/blob/main/images/linkedin.png"  width="20">
 </a>
 <a href="https://dribbble.com/skoodath" target="new">
-  <img alt="Dribbble" src="https://user-images.githubusercontent.com/47329799/153412916-05afe6db-184c-42e3-af1a-56209cec9b75.png"  width="20">
+  <img alt="Dribbble" src="https://user-images.githubusercontent.com/47329799/153412916-05afe6db-184c-42e3-af1a-56209cec9b75.png"  width="25">
 </a>
-<br>
----
-<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons" style="font-size: 6px;">Linkedin icons created by riajulislam - Flaticon</a>
