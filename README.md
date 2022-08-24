@@ -15,7 +15,7 @@ Hi, I am Shaiju, a tech enthusiast and a self-taught web developer from Hyderaba
 ### Work I am proud of
 > I am proud of all the work I did and doing, but the one below is to showcase some of those! 🤓
 * [networkEd](https://www.networked.in/)  
-* [kubeEd](https://www.kubeed.netlify.app)  
+* [kubeEd](https://kubeed.netlify.app)  
 * [SolarSystem3D](https://solarsystem3d.netlify.app/)
 
 #### Connect with me
