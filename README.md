@@ -47,6 +47,7 @@ Skills I use on a daily basis
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="javascript" width="35" height="35" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="javascript" width="35" height="35" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="javascript" width="35" height="35" />
+  
 </div>
 
 ---
