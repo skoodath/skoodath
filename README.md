@@ -18,10 +18,13 @@ Hi, I am Shaiju, a tech enthusiast and a self-taught web developer from Hyderaba
 * [kubeEd](https://kubeed.netlify.app)  
 * [SolarSystem3D](https://solarsystem3d.netlify.app/)
 
-#### Connect with me
+#### See my work!
 <a href="https://www.linkedin.com/in/nambiars/" target="new">
   <img alt="LinkedIn" src="https://github.com/skoodath/skoodath/blob/main/images/linkedin.png"  width="20">
 </a>
-<a href="https://dribbble.com/skoodath" target="new">
-  <img alt="Dribbble" src="https://user-images.githubusercontent.com/47329799/153412916-05afe6db-184c-42e3-af1a-56209cec9b75.png"  width="25">
+<a href="https://codepen.io/shnamb" target="new">
+  Codepen
+</a>
+<a href="https://codesandbox.io/u/shiju_nam" target="new">
+  CodeSandbox
 </a>
