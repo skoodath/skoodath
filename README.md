@@ -3,7 +3,6 @@ I am
 # Shaiju
 
 :technologist: Hi, I am Shaiju, a tech enthusiast and a self-taught web developer from Hyderabad, India 🇮🇳. I love creating UI Designs and developing for the web mostly with React. I am also an amateur photographer 📷 and an occassional blogger and guitar player 🎸.
-🌐 [Portfolio Website](https://www.shijunambiar.com/)
 
 <div id="badges">
 <a href="https://www.linkedin.com/in/nambiars/">
