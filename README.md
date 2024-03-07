@@ -1,8 +1,6 @@
-## Hello Everyone! 
-I am  
-# Shaiju
-
-:technologist: Hi, I am Shaiju, a tech enthusiast and a self-taught web developer from Hyderabad, India 🇮🇳. I love creating UI Designs and developing for the web mostly with React. I am also an amateur photographer 📷, guitar player 🎸 and an occassional blogger.
+### Hello Everyone! 
+# I am Shaiju, 
+A :technologist: tech enthusiast and a self-taught web developer from Hyderabad, India 🇮🇳. I love creating UI Designs and developing for the web mostly with React. I am also an amateur photographer 📷, guitar player 🎸 and an occassional blogger.
 
 <div id="badges">
 <a href="https://www.linkedin.com/in/nambiars/">
