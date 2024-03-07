@@ -36,7 +36,7 @@ Skills I use on a daily basis
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="35" height="35" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/svelte-original.svg" alt="Svelte" width="35" height="35" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="Svelte" width="35" height="35" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="javascript" width="35" height="35" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="javascript" width="35" height="35" />
