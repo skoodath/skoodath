@@ -1,4 +1,4 @@
-### Hello Everyone! 
+### Hey there! 
 # I am Shiju, 
 A tech enthusiast and a self-taught web developer from Hyderabad, India 🇮🇳. I love creating UI Designs and developing for the web mostly with React. I am also an amateur photographer 📷, guitar player 🎸 and an occassional blogger.
 
@@ -35,8 +35,9 @@ A tech enthusiast and a self-taught web developer from Hyderabad, India 🇮🇳
 Skills I use on a daily basis
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="javascript" width="35" height="35" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="javascript" width="35" height="35" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="35" height="35" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/svelte-original.svg" alt="Svelte" width="35" height="35" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="javascript" width="35" height="35" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="javascript" width="35" height="35" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="javascript" width="35" height="35" />
