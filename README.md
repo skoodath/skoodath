@@ -6,9 +6,6 @@ A tech enthusiast and a self-taught web developer from Hyderabad, India 🇮🇳
 <a href="https://www.linkedin.com/in/nambiars/">
   <img src="https://img.shields.io/badge/linkedin-blue?logo=linkedIn&logoColor=white&?style=for-the-badge" alt="linkedin" />
  </a>
- <a href="https://twitter.com/spknbr">
-    <img src="https://img.shields.io/badge/twitter-1DA1F2?logo=twitter&logoColor=white&?style=for-the-badge" alt="twitter" />
-  </a>
   <a href="https://codepen.io/shnamb">
     <img src="https://img.shields.io/badge/Codepen-black?logo=codepen&logoColor=white&?style=for-the-badge" alt="codepen" />
   </a>
