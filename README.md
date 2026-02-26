@@ -38,11 +38,10 @@ Skills I use on a daily basis
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="javascript" width="35" height="35" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="javascript" width="35" height="35" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="javascript" width="35" height="35" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="javascript" width="35" height="35" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="javascript" width="35" height="35" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="javascript" width="35" height="35" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="javascript" width="35" height="35" />
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="javascript" width="35" height="35" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="javascript" width="35" height="35" />
 </div>
 
 ---
