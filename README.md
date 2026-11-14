@@ -63,9 +63,10 @@ Skills I use on a daily basis
 
 ### Notable Work
 > I am proud of all the work I did and doing, but the one below is to showcase some of those! 🤓
-* [networkEd](https://www.networked.in/)  
-* [kubeEd](https://kubeed.netlify.app)  
+* [SMI LIfestyle](https://www.smilifestyle.org/)  
+* [Portfolio](https://www.shijunambiar.com)  
 * [SolarSystem3D](https://solarsystem3d.netlify.app/)
+* [Victor Bridge](https://victorybridge.vercel.app)
 
 
 ### :fire: My Github Stats
