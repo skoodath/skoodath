@@ -9,12 +9,6 @@ A tech enthusiast and a self-taught web developer from Hyderabad, India 🇮🇳
   <a href="https://codepen.io/shnamb">
     <img src="https://img.shields.io/badge/Codepen-black?logo=codepen&logoColor=white&?style=for-the-badge" alt="codepen" />
   </a>
-  <a href="https://codesandbox.io/u/shiju_nam">
-    <img src="https://img.shields.io/badge/Codesandbox-black?logo=codesandbox&logoColor=white&?style=for-the-badge" alt="codesandbox" />
-  </a>
-  <a href="https://stackoverflow.com/users/6543382/shiju-nambiar">
-    <img src="https://img.shields.io/badge/Stackoverflow-f48024?logo=stackoverflow&logoColor=white&?style=for-the-badge" alt="stackoverflow" />
-  </a>
   <a href="https://shijunambiar.com">
     <img src="https://img.shields.io/badge/Portfolio-informational?logo=appveyor&logoColor=white&?style=for-the-badge" alt="personal website" />
   </a>
